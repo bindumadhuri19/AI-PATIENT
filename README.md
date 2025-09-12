@@ -1,10 +1,13 @@
 
 # AI Patient Dashboard README
-1. Project Overview
+#1. Project Overview
+   
 1.1 Objective
 The AI Health Advisor Dashboard is a Tableau-based visualization tool developed to provide healthcare professionals with a comprehensive, real-time view of patient data. This project was undertaken to showcase my ability to integrate advanced analytics, predictive modeling, and interactive design, aligning with my goal to contribute to data-driven healthcare solutions.
+
 1.2 Purpose and Motivation
 I initiated this project to address the growing need for proactive patient care in healthcare settings, where timely insights can improve outcomes and reduce costs. Inspired by the integration of AI and IoT in modern healthcare, I aimed to create a portfolio piece that demonstrates my skills in data engineering, visualization, and problem-solving, making me a strong candidate for data analytics or healthcare IT roles.
+
 1.3 Key Features
 
 Real-Time AI Risk Predictions: Displays readmission and fall risk scores using machine learning insights.
